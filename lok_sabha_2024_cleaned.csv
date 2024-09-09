@@ -1,0 +1,544 @@
+,WinningParty,RunnerUpParty,Margin Votes,State,Constituency,Category,Alliance,Region
+0,Bharatiya Janata Party,Indian National Congress,24396,andaman and nicobar islands,andaman and nicobar islands,GEN,NDA,UT
+1,Telugu Desam,Yuvajana Sramika Rythu Congress Party,342196,andhra pradesh  ,amalapuram,SC,NDA,South
+2,Bharatiya Janata Party,Yuvajana Sramika Rythu Congress Party,296530,andhra pradesh  ,anakapalli,GEN,NDA,South
+3,Telugu Desam,Yuvajana Sramika Rythu Congress Party,188555,andhra pradesh  ,anantapur,GEN,NDA,South
+4,Yuvajana Sramika Rythu Congress Party,Bharatiya Janata Party,50580,andhra pradesh  ,araku,ST,INDI,South
+5,Telugu Desam,Yuvajana Sramika Rythu Congress Party,208031,andhra pradesh  ,bapatla,SC,NDA,South
+6,Telugu Desam,Yuvajana Sramika Rythu Congress Party,220479,andhra pradesh  ,chittoor,SC,NDA,South
+7,Telugu Desam,Yuvajana Sramika Rythu Congress Party,181857,andhra pradesh  ,eluru,GEN,NDA,South
+8,Telugu Desam,Yuvajana Sramika Rythu Congress Party,344695,andhra pradesh  ,guntur,GEN,NDA,South
+9,Telugu Desam,Yuvajana Sramika Rythu Congress Party,132427,andhra pradesh  ,hindupur,GEN,NDA,South
+10,Yuvajana Sramika Rythu Congress Party,Telugu Desam,62695,andhra pradesh  ,kadapa,GEN,INDI,South
+11,Janasena Party,Yuvajana Sramika Rythu Congress Party,229491,andhra pradesh  ,kakinada,GEN,NDA,South
+12,Telugu Desam,Yuvajana Sramika Rythu Congress Party,111298,andhra pradesh  ,kurnool,GEN,NDA,South
+13,Janasena Party,Yuvajana Sramika Rythu Congress Party,223179,andhra pradesh  ,machilipatnam,GEN,NDA,South
+14,Telugu Desam,Yuvajana Sramika Rythu Congress Party,111975,andhra pradesh  ,nandyal,GEN,NDA,South
+15,Bharatiya Janata Party,Yuvajana Sramika Rythu Congress Party,276802,andhra pradesh  ,narasapuram,GEN,NDA,South
+16,Telugu Desam,Yuvajana Sramika Rythu Congress Party,159729,andhra pradesh  ,narasaraopet,GEN,NDA,South
+17,Telugu Desam,Yuvajana Sramika Rythu Congress Party,245902,andhra pradesh  ,nellore,GEN,NDA,South
+18,Telugu Desam,Yuvajana Sramika Rythu Congress Party,50199,andhra pradesh  ,ongole,GEN,NDA,South
+19,Bharatiya Janata Party,Yuvajana Sramika Rythu Congress Party,239139,andhra pradesh  ,rajahmundry,GEN,NDA,South
+20,Yuvajana Sramika Rythu Congress Party,Bharatiya Janata Party,76071,andhra pradesh  ,rajampet,GEN,INDI,South
+21,Telugu Desam,Yuvajana Sramika Rythu Congress Party,327901,andhra pradesh  ,srikakulam,GEN,NDA,South
+22,Yuvajana Sramika Rythu Congress Party,Bharatiya Janata Party,14569,andhra pradesh  ,tirupati,SC,INDI,South
+23,Telugu Desam,Yuvajana Sramika Rythu Congress Party,282085,andhra pradesh  ,vijayawada,GEN,NDA,South
+24,Telugu Desam,Yuvajana Sramika Rythu Congress Party,504247,andhra pradesh  ,visakhapatnam,GEN,NDA,South
+25,Telugu Desam,Yuvajana Sramika Rythu Congress Party,249351,andhra pradesh  ,vizianagaram,GEN,NDA,South
+26,Bharatiya Janata Party,Indian National Congress,30421,arunachal pradesh,arunachal east,GEN,NDA,East
+27,Bharatiya Janata Party,Indian National Congress,100738,arunachal pradesh,arunachal west,GEN,NDA,East
+28,Asom Gana Parishad,Indian National Congress,222351,assam ,barpeta,GEN,INDI,East
+29,Bharatiya Janata Party,Indian National Congress,329012,assam ,darrang–udalguri,GEN,NDA,East
+30,Indian National Congress,All India United Democratic Front,1012476,assam ,dhubri,GEN,INDI,East
+31,Bharatiya Janata Party,Assam Jatiya Parishad,279321,assam ,dibrugarh,GEN,NDA,East
+32,Bharatiya Janata Party,Independent,147603,assam ,diphu,ST,NDA,East
+33,Bharatiya Janata Party,Indian National Congress,251090,assam ,guwahati,GEN,NDA,East
+34,Indian National Congress,Bharatiya Janata Party,144393,assam ,jorhat,GEN,INDI,East
+35,Bharatiya Janata Party,Indian National Congress,18360,assam ,karimganj,GEN,NDA,East
+36,Bharatiya Janata Party,Indian National Congress,248947,assam ,kaziranga,GEN,NDA,East
+37,"United People’s Party, Liberal",Bodoland Peoples Front,51583,assam ,kokrajhar,ST,NDA,East
+38,Bharatiya Janata Party,Indian National Congress,201257,assam ,lakhimpur,GEN,NDA,East
+39,Indian National Congress,Bharatiya Janata Party,212231,assam ,nagaon,GEN,INDI,East
+40,Bharatiya Janata Party,Indian National Congress,264311,assam ,silchar,SC,NDA,East
+41,Bharatiya Janata Party,Indian National Congress,361408,assam ,sonitpur,GEN,NDA,East
+42,Bharatiya Janata Party,Rashtriya Janata Dal,20094,bihar ,araria,GEN,NDA,North
+43,Communist Party of India  (Marxist-Leninist)  (Liberation),Bharatiya Janata Party,59808,bihar ,arrah,GEN,INDI,North
+44,Rashtriya Janata Dal,Bharatiya Janata Party,79111,bihar ,aurangabad,GEN,INDI,North
+45,Janata Dal  (United),Rashtriya Janata Dal,103844,bihar ,banka,GEN,NDA,North
+46,Bharatiya Janata Party,Communist Party of India,81480,bihar ,begusarai,GEN,NDA,North
+47,Janata Dal  (United),Indian National Congress,104868,bihar ,bhagalpur,GEN,NDA,North
+48,Rashtriya Janata Dal,Bharatiya Janata Party,30091,bihar ,buxar,GEN,INDI,North
+49,Bharatiya Janata Party,Rashtriya Janata Dal,178156,bihar ,darbhanga,GEN,NDA,North
+50,Hindustani Awam Morcha (Secular),Rashtriya Janata Dal,101812,bihar ,gaya,SC,INDI,North
+51,Janata Dal  (United),Vikassheel Insaan Party,127180,bihar ,gopalganj,SC,NDA,North
+52,Lok Janshakti Party(Ram Vilas),Rashtriya Janata Dal,170105,bihar ,hajipur,SC,NDA,North
+53,Rashtriya Janata Dal,Janata Dal  (United),142591,bihar ,jahanabad,GEN,INDI,North
+54,Lok Janshakti Party(Ram Vilas),Rashtriya Janata Dal,112482,bihar ,jamui,SC,NDA,North
+55,Janata Dal  (United),Vikassheel Insaan Party,184169,bihar ,jhanjharpur,GEN,NDA,North
+56,Communist Party of India  (Marxist-Leninist)  (Liberation),Independent,105858,bihar ,karakat,GEN,INDI,North
+57,Indian National Congress,Janata Dal  (United),49863,bihar ,katihar,GEN,INDI,North
+58,Lok Janshakti Party(Ram Vilas),Communist Party of India  (Marxist),161131,bihar ,khagaria,GEN,NDA,North
+59,Indian National Congress,Janata Dal  (United),59692,bihar ,kishanganj,GEN,INDI,North
+60,Janata Dal  (United),Rashtriya Janata Dal,174534,bihar ,madhepura,GEN,NDA,North
+61,Bharatiya Janata Party,Rashtriya Janata Dal,151945,bihar ,madhubani,GEN,NDA,North
+62,Bharatiya Janata Party,Indian National Congress,102651,bihar ,maharajganj,GEN,NDA,North
+63,Janata Dal  (United),Rashtriya Janata Dal,80870,bihar ,munger,GEN,NDA,North
+64,Bharatiya Janata Party,Indian National Congress,234927,bihar ,muzaffarpur,GEN,NDA,North
+65,Janata Dal  (United),Communist Party of India  (Marxist-Leninist)  (Liberation),169114,bihar ,nalanda,GEN,NDA,North
+66,Bharatiya Janata Party,Rashtriya Janata Dal,67670,bihar ,nawada,GEN,NDA,North
+67,Bharatiya Janata Party,Indian National Congress,136568,bihar ,paschim champaran,GEN,NDA,North
+68,Rashtriya Janata Dal,Bharatiya Janata Party,85174,bihar ,pataliputra,GEN,INDI,North
+69,Bharatiya Janata Party,Indian National Congress,153846,bihar ,patna sahib,GEN,NDA,North
+70,Independent,Janata Dal  (United),23847,bihar ,purnia,GEN,No Affiliation,North
+71,Bharatiya Janata Party,Vikassheel Insaan Party,88287,bihar ,purvi champaran,GEN,NDA,North
+72,Lok Janshakti Party(Ram Vilas),Indian National Congress,187251,bihar ,samastipur,SC,NDA,North
+73,Bharatiya Janata Party,Rashtriya Janata Dal,13661,bihar ,saran,GEN,NDA,North
+74,Indian National Congress,Bharatiya Janata Party,19157,bihar ,sasaram,SC,INDI,North
+75,Janata Dal  (United),Rashtriya Janata Dal,29143,bihar ,sheohar,GEN,NDA,North
+76,Janata Dal  (United),Rashtriya Janata Dal,51356,bihar ,sitamarhi,GEN,NDA,North
+77,Janata Dal  (United),Independent,92857,bihar ,siwan,GEN,NDA,North
+78,Janata Dal  (United),Rashtriya Janata Dal,169803,bihar ,supaul,GEN,NDA,North
+79,Bharatiya Janata Party,Rashtriya Janata Dal,60102,bihar ,ujiarpur,GEN,NDA,North
+80,Lok Janshakti Party(Ram Vilas),Rashtriya Janata Dal,89634,bihar ,vaishali,GEN,NDA,North
+81,Janata Dal  (United),Rashtriya Janata Dal,98675,bihar ,valmiki nagar,GEN,NDA,North
+82,Indian National Congress,Bharatiya Janata Party,2504,chandigarh,chandigarh,GEN,INDI,UT
+83,Bharatiya Janata Party,Indian National Congress,55245,chhattisgarh ,bastar,ST,NDA,Central
+84,Bharatiya Janata Party,Indian National Congress,164558,chhattisgarh ,bilaspur,GEN,NDA,Central
+85,Bharatiya Janata Party,Indian National Congress,438226,chhattisgarh ,durg,GEN,NDA,Central
+86,Bharatiya Janata Party,Indian National Congress,60000,chhattisgarh ,janjgir–champa,SC,NDA,Central
+87,Bharatiya Janata Party,Indian National Congress,1884,chhattisgarh ,kanker,ST,NDA,Central
+88,Indian National Congress,Bharatiya Janata Party,43283,chhattisgarh ,korba,GEN,INDI,Central
+89,Bharatiya Janata Party,Indian National Congress,145456,chhattisgarh ,mahasamund,GEN,NDA,Central
+90,Bharatiya Janata Party,Indian National Congress,240391,chhattisgarh ,raigarh,ST,NDA,Central
+91,Bharatiya Janata Party,Indian National Congress,575285,chhattisgarh ,raipur,GEN,NDA,Central
+92,Bharatiya Janata Party,Indian National Congress,44411,chhattisgarh ,rajnandgaon,GEN,NDA,Central
+93,Bharatiya Janata Party,Indian National Congress,64822,chhattisgarh ,sarguja,ST,NDA,Central
+94,Bharatiya Janata Party,Indian National Congress,57584,dadra and nagar haveli and daman and diu,dadra and nagar haveli,ST,NDA,UT
+95,Independent,Bharatiya Janata Party,6225,dadra and nagar haveli and daman and diu,daman and diu,GEN,No Affiliation,UT
+96,Bharatiya Janata Party,Indian National Congress,116015,goa,north goa,GEN,NDA,UT
+97,Indian National Congress,Bharatiya Janata Party,13535,goa,south goa,GEN,INDI,UT
+98,Bharatiya Janata Party,Indian National Congress,461755,gujarat ,ahmedabad east,GEN,NDA,Central
+99,Bharatiya Janata Party,Indian National Congress,286437,gujarat ,ahmedabad west,SC,NDA,Central
+100,Bharatiya Janata Party,Indian National Congress,321068,gujarat ,amreli,GEN,NDA,Central
+101,Bharatiya Janata Party,Indian National Congress,89939,gujarat ,anand,GEN,NDA,Central
+102,Indian National Congress,Bharatiya Janata Party,30406,gujarat ,banaskantha,GEN,INDI,Central
+103,Bharatiya Janata Party,Indian National Congress,230253,gujarat ,bardoli,ST,NDA,Central
+104,Bharatiya Janata Party,Aam Aadmi Party,85696,gujarat ,bharuch,GEN,NDA,Central
+105,Bharatiya Janata Party,Aam Aadmi Party,455289,gujarat ,bhavnagar,GEN,NDA,Central
+106,Bharatiya Janata Party,Indian National Congress,398777,gujarat ,chhota udaipur,ST,NDA,Central
+107,Bharatiya Janata Party,Indian National Congress,333677,gujarat ,dahod,ST,NDA,Central
+108,Bharatiya Janata Party,Indian National Congress,744716,gujarat ,gandhinagar,GEN,NDA,Central
+109,Bharatiya Janata Party,Indian National Congress,238008,gujarat ,jamnagar,GEN,NDA,Central
+110,Bharatiya Janata Party,Indian National Congress,135494,gujarat ,junagadh,GEN,NDA,Central
+111,Bharatiya Janata Party,Indian National Congress,268782,gujarat ,kachchh,SC,NDA,Central
+112,Bharatiya Janata Party,Indian National Congress,357758,gujarat ,kheda,GEN,NDA,Central
+113,Bharatiya Janata Party,Indian National Congress,328046,gujarat ,mahesana,GEN,NDA,Central
+114,Bharatiya Janata Party,Indian National Congress,773551,gujarat ,navsari,GEN,NDA,Central
+115,Bharatiya Janata Party,Indian National Congress,509342,gujarat ,panchmahal,GEN,NDA,Central
+116,Bharatiya Janata Party,Indian National Congress,31876,gujarat ,patan,GEN,NDA,Central
+117,Bharatiya Janata Party,Indian National Congress,383360,gujarat ,porbandar,GEN,NDA,Central
+118,Bharatiya Janata Party,Indian National Congress,484260,gujarat ,rajkot,GEN,NDA,Central
+119,Bharatiya Janata Party,Indian National Congress,155682,gujarat ,sabarkantha,GEN,NDA,Central
+120,Bharatiya Janata Party,,0,gujarat ,surat,GEN,NDA,Central
+121,Bharatiya Janata Party,Indian National Congress,261617,gujarat ,surendranagar,GEN,NDA,Central
+122,Bharatiya Janata Party,Indian National Congress,582126,gujarat ,vadodara,GEN,NDA,Central
+123,Bharatiya Janata Party,Indian National Congress,210704,gujarat ,valsad,ST,NDA,Central
+124,Indian National Congress,Bharatiya Janata Party,49036,haryana ,ambala,SC,INDI,North
+125,Bharatiya Janata Party,Indian National Congress,41510,haryana ,bhiwani–mahendragarh,GEN,NDA,North
+126,Bharatiya Janata Party,Indian National Congress,172914,haryana ,faridabad,GEN,NDA,North
+127,Bharatiya Janata Party,Indian National Congress,75079,haryana ,gurgaon,GEN,NDA,North
+128,Indian National Congress,Bharatiya Janata Party,63381,haryana ,hisar,GEN,INDI,North
+129,Bharatiya Janata Party,Indian National Congress,232577,haryana ,karnal,GEN,NDA,North
+130,Bharatiya Janata Party,Aam Aadmi Party,29021,haryana ,kurukshetra,GEN,NDA,North
+131,Indian National Congress,Bharatiya Janata Party,345298,haryana ,rohtak,GEN,INDI,North
+132,Indian National Congress,Bharatiya Janata Party,268497,haryana ,sirsa,SC,INDI,North
+133,Indian National Congress,Bharatiya Janata Party,21816,haryana ,sonipat,GEN,INDI,North
+134,Bharatiya Janata Party,Indian National Congress,182357,himachal pradesh,hamirpur,GEN,NDA,North
+135,Bharatiya Janata Party,Indian National Congress,251895,himachal pradesh,kangra,GEN,NDA,North
+136,Bharatiya Janata Party,Indian National Congress,74755,himachal pradesh,mandi,GEN,NDA,North
+137,Bharatiya Janata Party,Indian National Congress,91451,himachal pradesh,shimla,SC,NDA,North
+138,Jammu & Kashmir National Conference,Jammu & Kashmir Peoples Democratic Party,281794,jammu and kashmir,anantnag–rajouri,GEN,INDI,North
+139,Independent,Jammu & Kashmir National Conference,204142,jammu and kashmir,baramulla,GEN,No Affiliation,North
+140,Bharatiya Janata Party,Indian National Congress,135498,jammu and kashmir,jammu,GEN,NDA,North
+141,Jammu & Kashmir National Conference,Jammu & Kashmir Peoples Democratic Party,188416,jammu and kashmir,srinagar,GEN,INDI,North
+142,Bharatiya Janata Party,Indian National Congress,124373,jammu and kashmir,udhampur,GEN,NDA,North
+143,Bharatiya Janata Party,Indian National Congress,220959,jharkhand ,chatra,GEN,NDA,North
+144,Bharatiya Janata Party,Indian National Congress,331583,jharkhand ,dhanbad,GEN,NDA,North
+145,Jharkhand Mukti Morcha,Bharatiya Janata Party,22527,jharkhand ,dumka,ST,INDI,North
+146,AJSU Party,Jharkhand Mukti Morcha,80880,jharkhand ,giridih,GEN,INDI,North
+147,Bharatiya Janata Party,Indian National Congress,101813,jharkhand ,godda,GEN,NDA,North
+148,Bharatiya Janata Party,Indian National Congress,276686,jharkhand ,hazaribagh,GEN,NDA,North
+149,Bharatiya Janata Party,Jharkhand Mukti Morcha,259782,jharkhand ,jamshedpur,GEN,NDA,North
+150,Indian National Congress,Bharatiya Janata Party,149675,jharkhand ,khunti,ST,INDI,North
+151,Bharatiya Janata Party,Communist Party of India  (Marxist-Leninist)  (Liberation),377014,jharkhand ,koderma,GEN,NDA,North
+152,Indian National Congress,Bharatiya Janata Party,139138,jharkhand ,lohardaga,ST,INDI,North
+153,Bharatiya Janata Party,Rashtriya Janata Dal,288807,jharkhand ,palamu,SC,NDA,North
+154,Jharkhand Mukti Morcha,Bharatiya Janata Party,178264,jharkhand ,rajmahal,ST,INDI,North
+155,Bharatiya Janata Party,Indian National Congress,120512,jharkhand ,ranchi,GEN,NDA,North
+156,Jharkhand Mukti Morcha,Bharatiya Janata Party,168402,jharkhand ,singhbhum,ST,INDI,North
+157,Bharatiya Janata Party,Indian National Congress,68399,karnataka ,bagalkot,GEN,NDA,South
+158,Bharatiya Janata Party,Indian National Congress,32707,karnataka ,bangalore central,GEN,NDA,South
+159,Bharatiya Janata Party,Indian National Congress,259476,karnataka ,bangalore north,GEN,NDA,South
+160,Bharatiya Janata Party,Indian National Congress,269647,karnataka ,bangalore rural,GEN,NDA,South
+161,Bharatiya Janata Party,Indian National Congress,277083,karnataka ,bangalore south,GEN,NDA,South
+162,Bharatiya Janata Party,Indian National Congress,178437,karnataka ,belgaum,GEN,NDA,South
+163,Indian National Congress,Bharatiya Janata Party,98992,karnataka ,bellary,ST,INDI,South
+164,Indian National Congress,Bharatiya Janata Party,128875,karnataka ,bidar,GEN,INDI,South
+165,Bharatiya Janata Party,Indian National Congress,77229,karnataka ,bijapur,SC,NDA,South
+166,Indian National Congress,Bharatiya Janata Party,188706,karnataka ,chamarajanagar,SC,INDI,South
+167,Bharatiya Janata Party,Indian National Congress,163460,karnataka ,chikballapur,GEN,NDA,South
+168,Indian National Congress,Bharatiya Janata Party,90834,karnataka ,chikkodi,GEN,INDI,South
+169,Bharatiya Janata Party,Indian National Congress,48121,karnataka ,chitradurga,SC,NDA,South
+170,Bharatiya Janata Party,Indian National Congress,149208,karnataka ,dakshina kannada,GEN,NDA,South
+171,Indian National Congress,Bharatiya Janata Party,26094,karnataka ,davanagere,GEN,INDI,South
+172,Bharatiya Janata Party,Indian National Congress,97324,karnataka ,dharwad,GEN,NDA,South
+173,Indian National Congress,Bharatiya Janata Party,27205,karnataka ,gulbarga,SC,INDI,South
+174,Indian National Congress,Janata Dal  (Secular),42649,karnataka ,hassan,GEN,INDI,South
+175,Bharatiya Janata Party,Indian National Congress,43513,karnataka ,haveri,GEN,NDA,South
+176,Janata Dal  (Secular),Indian National Congress,71388,karnataka ,kolar,SC,NDA,South
+177,Indian National Congress,Bharatiya Janata Party,46357,karnataka ,koppal,GEN,INDI,South
+178,Janata Dal  (Secular),Indian National Congress,284620,karnataka ,mandya,GEN,NDA,South
+179,Bharatiya Janata Party,Indian National Congress,139262,karnataka ,mysore,GEN,NDA,South
+180,Indian National Congress,Bharatiya Janata Party,79781,karnataka ,raichur,ST,INDI,South
+181,Bharatiya Janata Party,Indian National Congress,243715,karnataka ,shimoga,GEN,NDA,South
+182,Bharatiya Janata Party,Indian National Congress,175594,karnataka ,tumkur,GEN,NDA,South
+183,Bharatiya Janata Party,Indian National Congress,259175,karnataka ,udupi chikmagalur,GEN,NDA,South
+184,Bharatiya Janata Party,Indian National Congress,337428,karnataka ,uttara kannada,GEN,NDA,South
+185,Indian National Congress,Communist Party of India  (Marxist),63513,kerala ,alappuzha,GEN,INDI,South
+186,Communist Party of India  (Marxist),Indian National Congress,20111,kerala ,alathur,SC,INDI,South
+187,Indian National Congress,Communist Party of India  (Marxist),684,kerala ,attingal,GEN,INDI,South
+188,Indian National Congress,Communist Party of India  (Marxist),63754,kerala ,chalakudy,GEN,INDI,South
+189,Indian National Congress,Communist Party of India  (Marxist),250385,kerala ,ernakulam,GEN,INDI,South
+190,Indian National Congress,Communist Party of India  (Marxist),133727,kerala ,idukki,GEN,INDI,South
+191,Indian National Congress,Communist Party of India  (Marxist),108982,kerala ,kannur,GEN,INDI,South
+192,Indian National Congress,Communist Party of India  (Marxist),100649,kerala ,kasaragod,GEN,INDI,South
+193,Revolutionary Socialist Party,Communist Party of India  (Marxist),150302,kerala ,kollam,GEN,INDI,South
+194,Kerala Congress,Kerala Congress  (M),87266,kerala ,kottayam,GEN,INDI,South
+195,Indian National Congress,Communist Party of India  (Marxist),146176,kerala ,kozhikode,GEN,INDI,South
+196,Indian Union Muslim League,Communist Party of India  (Marxist),300118,kerala ,malappuram,GEN,INDI,South
+197,Indian National Congress,Communist Party of India,10868,kerala ,mavelikara,SC,INDI,South
+198,Indian National Congress,Communist Party of India  (Marxist),75283,kerala ,palakkad,GEN,INDI,South
+199,Indian National Congress,Communist Party of India  (Marxist),66119,kerala ,pathanamthitta,GEN,INDI,South
+200,Indian Union Muslim League,Communist Party of India  (Marxist),235760,kerala ,ponnani,GEN,INDI,South
+201,Indian National Congress,Bharatiya Janata Party,16077,kerala ,thiruvananthapuram,GEN,INDI,South
+202,Bharatiya Janata Party,Communist Party of India,74686,kerala ,thrissur,GEN,NDA,South
+203,Indian National Congress,Communist Party of India  (Marxist),114506,kerala ,vatakara,GEN,INDI,South
+204,Indian National Congress,Communist Party of India,364422,kerala ,wayanad,GEN,INDI,South
+205,Independent,Indian National Congress,27862,ladakh,ladakh,GEN,No Affiliation,North
+206,Indian National Congress,Nationalist Congress Party – Sharadchandra Pawar,2647,lakshadweep,lakshadweep,ST,INDI,UT
+207,Bharatiya Janata Party,Indian National Congress,174512,madhya pradesh ,balaghat,GEN,NDA,Central
+208,Bharatiya Janata Party,Indian National Congress,379761,madhya pradesh ,betul,ST,NDA,Central
+209,Bharatiya Janata Party,Indian National Congress,64840,madhya pradesh ,bhind,SC,NDA,Central
+210,Bharatiya Janata Party,Indian National Congress,501499,madhya pradesh ,bhopal,GEN,NDA,Central
+211,Bharatiya Janata Party,Indian National Congress,113618,madhya pradesh ,chhindwara,GEN,NDA,Central
+212,Bharatiya Janata Party,Indian National Congress,406426,madhya pradesh ,damoh,GEN,NDA,Central
+213,Bharatiya Janata Party,Indian National Congress,425225,madhya pradesh ,dewas,SC,NDA,Central
+214,Bharatiya Janata Party,Indian National Congress,218665,madhya pradesh ,dhar,ST,NDA,Central
+215,Bharatiya Janata Party,Indian National Congress,540929,madhya pradesh ,guna,GEN,NDA,Central
+216,Bharatiya Janata Party,Indian National Congress,70210,madhya pradesh ,gwalior,GEN,NDA,Central
+217,Bharatiya Janata Party,Bahujan Samaj Party,1175092,madhya pradesh ,indore,GEN,NDA,Central
+218,Bharatiya Janata Party,Indian National Congress,486674,madhya pradesh ,jabalpur,GEN,NDA,Central
+219,Bharatiya Janata Party,Bahujan Samaj Party,541229,madhya pradesh ,khajuraho,GEN,NDA,Central
+220,Bharatiya Janata Party,Indian National Congress,269971,madhya pradesh ,khandwa,GEN,NDA,Central
+221,Bharatiya Janata Party,Indian National Congress,135018,madhya pradesh ,khargone,ST,NDA,Central
+222,Bharatiya Janata Party,Indian National Congress,103846,madhya pradesh ,mandla,ST,NDA,Central
+223,Bharatiya Janata Party,Indian National Congress,500655,madhya pradesh ,mandsaur,GEN,NDA,Central
+224,Bharatiya Janata Party,Indian National Congress,52530,madhya pradesh ,morena,GEN,NDA,Central
+225,Bharatiya Janata Party,Indian National Congress,431696,madhya pradesh ,narmadapuram,GEN,NDA,Central
+226,Bharatiya Janata Party,Indian National Congress,146089,madhya pradesh ,rajgarh,GEN,NDA,Central
+227,Bharatiya Janata Party,Indian National Congress,207232,madhya pradesh ,ratlam,ST,NDA,Central
+228,Bharatiya Janata Party,Indian National Congress,193374,madhya pradesh ,rewa,GEN,NDA,Central
+229,Bharatiya Janata Party,Indian National Congress,471222,madhya pradesh ,sagar,GEN,NDA,Central
+230,Bharatiya Janata Party,Indian National Congress,84949,madhya pradesh ,satna,GEN,NDA,Central
+231,Bharatiya Janata Party,Indian National Congress,397340,madhya pradesh ,shahdol,ST,NDA,Central
+232,Bharatiya Janata Party,Indian National Congress,206416,madhya pradesh ,sidhi,GEN,NDA,Central
+233,Bharatiya Janata Party,Indian National Congress,403312,madhya pradesh ,tikamgarh,SC,NDA,Central
+234,Bharatiya Janata Party,Indian National Congress,375860,madhya pradesh ,ujjain,SC,NDA,Central
+235,Bharatiya Janata Party,Indian National Congress,821408,madhya pradesh ,vidisha,GEN,NDA,Central
+236,Nationalist Congress Party – Sharadchandra Pawar,Bharatiya Janata Party,28929,maharashtra ,ahmednagar,GEN,INDI,Central
+237,Bharatiya Janata Party,Indian National Congress,40626,maharashtra ,akola,GEN,NDA,Central
+238,Indian National Congress,Bharatiya Janata Party,19731,maharashtra ,amravati,SC,INDI,Central
+239,Shiv Sena,All India Majlis-E-Ittehadul Muslimeen,134650,maharashtra ,aurangabad,GEN,NDA,Central
+240,Nationalist Congress Party – Sharadchandra Pawar,Nationalist Congress Party,158333,maharashtra ,baramati,GEN,INDI,Central
+241,Nationalist Congress Party – Sharadchandra Pawar,Bharatiya Janata Party,6553,maharashtra ,beed,GEN,INDI,Central
+242,Indian National Congress,Bharatiya Janata Party,37380,maharashtra ,bhandara–gondiya,GEN,INDI,Central
+243,Nationalist Congress Party – Sharadchandra Pawar,Bharatiya Janata Party,66121,maharashtra ,bhiwandi,GEN,INDI,Central
+244,Shiv Sena,Shiv Sena (Uddhav Balasaheb Thackrey),29479,maharashtra ,buldhana,GEN,NDA,Central
+245,Indian National Congress,Bharatiya Janata Party,260406,maharashtra ,chandrapur,GEN,INDI,Central
+246,Indian National Congress,Bharatiya Janata Party,3831,maharashtra ,dhule,GEN,INDI,Central
+247,Nationalist Congress Party – Sharadchandra Pawar,Bharatiya Janata Party,113199,maharashtra ,dindori,ST,INDI,Central
+248,Indian National Congress,Bharatiya Janata Party,141696,maharashtra ,gadchiroli–chimur,ST,INDI,Central
+249,Shiv Sena,Shiv Sena (Uddhav Balasaheb Thackrey),13426,maharashtra ,hatkanangle,GEN,NDA,Central
+250,Shiv Sena (Uddhav Balasaheb Thackrey),Shiv Sena,108602,maharashtra ,hingoli,GEN,INDI,Central
+251,Bharatiya Janata Party,Shiv Sena (Uddhav Balasaheb Thackrey),251594,maharashtra ,jalgaon,GEN,NDA,Central
+252,Indian National Congress,Bharatiya Janata Party,109958,maharashtra ,jalna,GEN,INDI,Central
+253,Shiv Sena,Shiv Sena (Uddhav Balasaheb Thackrey),209144,maharashtra ,kalyan,GEN,NDA,Central
+254,Indian National Congress,Shiv Sena,154964,maharashtra ,kolhapur,GEN,INDI,Central
+255,Indian National Congress,Bharatiya Janata Party,61881,maharashtra ,latur,SC,INDI,Central
+256,Nationalist Congress Party – Sharadchandra Pawar,Bharatiya Janata Party,120837,maharashtra ,madha,GEN,INDI,Central
+257,Shiv Sena,Shiv Sena (Uddhav Balasaheb Thackrey),96615,maharashtra ,maval,GEN,NDA,Central
+258,Bharatiya Janata Party,Indian National Congress,357608,maharashtra ,mumbai north,GEN,NDA,Central
+259,Indian National Congress,Bharatiya Janata Party,16514,maharashtra ,mumbai north central,GEN,INDI,Central
+260,Shiv Sena (Uddhav Balasaheb Thackrey),Bharatiya Janata Party,29861,maharashtra ,mumbai north east,GEN,INDI,Central
+261,Shiv Sena,Shiv Sena (Uddhav Balasaheb Thackrey),48,maharashtra ,mumbai north west,GEN,NDA,Central
+262,Shiv Sena (Uddhav Balasaheb Thackrey),Shiv Sena,52673,maharashtra ,mumbai south,GEN,INDI,Central
+263,Shiv Sena (Uddhav Balasaheb Thackrey),Shiv Sena,53384,maharashtra ,mumbai south central,GEN,INDI,Central
+264,Bharatiya Janata Party,Indian National Congress,137603,maharashtra ,nagpur,GEN,NDA,Central
+265,Indian National Congress,Bharatiya Janata Party,59442,maharashtra ,nanded,GEN,INDI,Central
+266,Indian National Congress,Bharatiya Janata Party,159120,maharashtra ,nandurbar,ST,INDI,Central
+267,Shiv Sena (Uddhav Balasaheb Thackrey),Shiv Sena,162001,maharashtra ,nashik,GEN,INDI,Central
+268,Shiv Sena (Uddhav Balasaheb Thackrey),Nationalist Congress Party,329846,maharashtra ,osmanabad,GEN,INDI,Central
+269,Bharatiya Janata Party,Shiv Sena (Uddhav Balasaheb Thackrey),183306,maharashtra ,palghar,ST,NDA,Central
+270,Shiv Sena (Uddhav Balasaheb Thackrey),Rashtriya Samaj Paksha,134061,maharashtra ,parbhani,GEN,INDI,Central
+271,Bharatiya Janata Party,Indian National Congress,123038,maharashtra ,pune,GEN,NDA,Central
+272,Nationalist Congress Party,Shiv Sena (Uddhav Balasaheb Thackrey),82784,maharashtra ,raigad,GEN,NDA,Central
+273,Indian National Congress,Shiv Sena,76768,maharashtra ,ramtek,SC,INDI,Central
+274,Bharatiya Janata Party,Shiv Sena (Uddhav Balasaheb Thackrey),47858,maharashtra ,ratnagiri–sindhudurg,GEN,NDA,Central
+275,Bharatiya Janata Party,Nationalist Congress Party – Sharadchandra Pawar,272183,maharashtra ,raver,GEN,NDA,Central
+276,Independent,Bharatiya Janata Party,100053,maharashtra ,sangli,GEN,No Affiliation,Central
+277,Bharatiya Janata Party,Nationalist Congress Party – Sharadchandra Pawar,32771,maharashtra ,satara,GEN,NDA,Central
+278,Shiv Sena (Uddhav Balasaheb Thackrey),Shiv Sena,50529,maharashtra ,shirdi,SC,INDI,Central
+279,Nationalist Congress Party – Sharadchandra Pawar,Nationalist Congress Party,140951,maharashtra ,shirur,GEN,INDI,Central
+280,Indian National Congress,Bharatiya Janata Party,74197,maharashtra ,solapur,SC,INDI,Central
+281,Shiv Sena,Shiv Sena (Uddhav Balasaheb Thackrey),217011,maharashtra ,thane,GEN,NDA,Central
+282,Nationalist Congress Party – Sharadchandra Pawar,Bharatiya Janata Party,81648,maharashtra ,wardha,GEN,INDI,Central
+283,Shiv Sena (Uddhav Balasaheb Thackrey),Shiv Sena,94473,maharashtra ,yavatmal–washim,GEN,INDI,Central
+284,Indian National Congress,Bharatiya Janata Party,109801,manipur,inner manipur,GEN,INDI,East
+285,Indian National Congress,Naga Peoples Front,85418,manipur,outer manipur,ST,INDI,East
+286,Voice of the People Party,Indian National Congress,371910,meghalaya,shillong,ST,INDI,East
+287,Indian National Congress,National People's Party,155241,meghalaya,tura,ST,INDI,East
+288,Zoram People’s Movement,Mizo National Front,68288,mizoram,mizoram,ST,INDI,East
+289,Indian National Congress,Nationalist Democratic Progressive Party,50984,nagaland,nagaland,GEN,INDI,East
+290,Bharatiya Janata Party,Indian National Congress,89325,nct of delhi,chandni chowk,GEN,NDA,UT
+291,Bharatiya Janata Party,Aam Aadmi Party,93663,nct of delhi,east delhi,GEN,NDA,UT
+292,Bharatiya Janata Party,Aam Aadmi Party,78370,nct of delhi,new delhi,GEN,NDA,UT
+293,Bharatiya Janata Party,Indian National Congress,138778,nct of delhi,north east delhi,GEN,NDA,UT
+294,Bharatiya Janata Party,Indian National Congress,290849,nct of delhi,north west delhi,SC,NDA,UT
+295,Bharatiya Janata Party,Aam Aadmi Party,124333,nct of delhi,south delhi,GEN,NDA,UT
+296,Bharatiya Janata Party,Aam Aadmi Party,199013,nct of delhi,west delhi,GEN,NDA,UT
+297,Bharatiya Janata Party,Biju Janata Dal,99974,odisha ,aska,GEN,NDA,Central
+298,Bharatiya Janata Party,Biju Janata Dal,147156,odisha ,balasore,GEN,NDA,Central
+299,Bharatiya Janata Party,Biju Janata Dal,251667,odisha ,bargarh,GEN,NDA,Central
+300,Bharatiya Janata Party,Biju Janata Dal,165476,odisha ,berhampur,GEN,NDA,Central
+301,Bharatiya Janata Party,Biju Janata Dal,91544,odisha ,bhadrak,SC,NDA,Central
+302,Bharatiya Janata Party,Biju Janata Dal,35152,odisha ,bhubaneswar,GEN,NDA,Central
+303,Bharatiya Janata Party,Biju Janata Dal,132664,odisha ,bolangir,GEN,NDA,Central
+304,Bharatiya Janata Party,Biju Janata Dal,57077,odisha ,cuttack,GEN,NDA,Central
+305,Bharatiya Janata Party,Biju Janata Dal,76567,odisha ,dhenkanal,GEN,NDA,Central
+306,Bharatiya Janata Party,Biju Janata Dal,40696,odisha ,jagatsinghpur,SC,NDA,Central
+307,Bharatiya Janata Party,Biju Janata Dal,1587,odisha ,jajpur,SC,NDA,Central
+308,Bharatiya Janata Party,Biju Janata Dal,133813,odisha ,kalahandi,GEN,NDA,Central
+309,Bharatiya Janata Party,Biju Janata Dal,21371,odisha ,kandhamal,GEN,NDA,Central
+310,Bharatiya Janata Party,Biju Janata Dal,66536,odisha ,kendrapara,GEN,NDA,Central
+311,Bharatiya Janata Party,Biju Janata Dal,97042,odisha ,keonjhar,ST,NDA,Central
+312,Indian National Congress,Biju Janata Dal,147744,odisha ,koraput,ST,INDI,Central
+313,Bharatiya Janata Party,Biju Janata Dal,219334,odisha ,mayurbhanj,ST,NDA,Central
+314,Bharatiya Janata Party,Biju Janata Dal,87536,odisha ,nabarangpur,ST,NDA,Central
+315,Bharatiya Janata Party,Biju Janata Dal,104709,odisha ,puri,GEN,NDA,Central
+316,Bharatiya Janata Party,Biju Janata Dal,119836,odisha ,sambalpur,GEN,NDA,Central
+317,Bharatiya Janata Party,Biju Janata Dal,138808,odisha ,sundargarh,ST,NDA,Central
+318,Indian National Congress,Bharatiya Janata Party,136516,puducherry,puducherry,GEN,INDI,UT
+319,Indian National Congress,Aam Aadmi Party,40301,punjab ,amritsar,GEN,INDI,North
+320,Aam Aadmi Party,Indian National Congress,10846,punjab ,anandpur sahib,GEN,INDI,North
+321,Shiromani Akali Dal,Aam Aadmi Party,49656,punjab ,bathinda,GEN,INDI,North
+322,Independent,Aam Aadmi Party,70053,punjab ,faridkot,SC,No Affiliation,North
+323,Indian National Congress,Aam Aadmi Party,34202,punjab ,fatehgarh sahib,SC,INDI,North
+324,Indian National Congress,Aam Aadmi Party,3242,punjab ,firozpur,GEN,INDI,North
+325,Indian National Congress,Bharatiya Janata Party,82861,punjab ,gurdaspur,GEN,INDI,North
+326,Aam Aadmi Party,Indian National Congress,44111,punjab ,hoshiarpur,SC,INDI,North
+327,Indian National Congress,Bharatiya Janata Party,175993,punjab ,jalandhar,SC,INDI,North
+328,Independent,Indian National Congress,197120,punjab ,khadoor sahib,GEN,No Affiliation,North
+329,Indian National Congress,Bharatiya Janata Party,20942,punjab ,ludhiana,GEN,INDI,North
+330,Indian National Congress,Aam Aadmi Party,14831,punjab ,patiala,GEN,INDI,North
+331,Aam Aadmi Party,Indian National Congress,172560,punjab ,sangrur,GEN,INDI,North
+332,Bharatiya Janata Party,Indian National Congress,329991,rajasthan ,ajmer,GEN,NDA,North
+333,Bharatiya Janata Party,Indian National Congress,48282,rajasthan ,alwar,GEN,NDA,North
+334,Bharat Adivasi Party,Bharatiya Janata Party,247054,rajasthan ,banswara,ST,INDI,North
+335,Indian National Congress,Independent,118176,rajasthan ,barmer,GEN,INDI,North
+336,Indian National Congress,Bharatiya Janata Party,51983,rajasthan ,bharatpur,SC,INDI,North
+337,Bharatiya Janata Party,Indian National Congress,354606,rajasthan ,bhilwara,GEN,NDA,North
+338,Bharatiya Janata Party,Indian National Congress,55711,rajasthan ,bikaner,SC,NDA,North
+339,Bharatiya Janata Party,Indian National Congress,389877,rajasthan ,chittorgarh,GEN,NDA,North
+340,Indian National Congress,Bharatiya Janata Party,72737,rajasthan ,churu,GEN,INDI,North
+341,Indian National Congress,Bharatiya Janata Party,237340,rajasthan ,dausa,ST,INDI,North
+342,Indian National Congress,Bharatiya Janata Party,88153,rajasthan ,ganganagar,SC,INDI,North
+343,Bharatiya Janata Party,Indian National Congress,331767,rajasthan ,jaipur,GEN,NDA,North
+344,Bharatiya Janata Party,Indian National Congress,1615,rajasthan ,jaipur rural,GEN,NDA,North
+345,Bharatiya Janata Party,Indian National Congress,201543,rajasthan ,jalore,GEN,NDA,North
+346,Bharatiya Janata Party,Indian National Congress,370989,rajasthan ,jhalawar–baran,GEN,NDA,North
+347,Indian National Congress,Bharatiya Janata Party,18235,rajasthan ,jhunjhunu,GEN,INDI,North
+348,Bharatiya Janata Party,Indian National Congress,115677,rajasthan ,jodhpur,GEN,NDA,North
+349,Indian National Congress,Bharatiya Janata Party,98945,rajasthan ,karauli–dholpur,SC,INDI,North
+350,Bharatiya Janata Party,Indian National Congress,41974,rajasthan ,kota,GEN,NDA,North
+351,Rashtriya Loktantrik Party,Bharatiya Janata Party,42225,rajasthan ,nagaur,GEN,INDI,North
+352,Bharatiya Janata Party,Indian National Congress,245351,rajasthan ,pali,GEN,NDA,North
+353,Bharatiya Janata Party,Indian National Congress,392223,rajasthan ,rajsamand,GEN,NDA,North
+354,Communist Party of India  (Marxist),Bharatiya Janata Party,72896,rajasthan ,sikar,GEN,INDI,North
+355,Indian National Congress,Bharatiya Janata Party,64949,rajasthan ,tonk–sawai madhopur,GEN,INDI,North
+356,Bharatiya Janata Party,Indian National Congress,261608,rajasthan ,udaipur,ST,NDA,North
+357,Sikkim Krantikari Morcha,Citizen Action Party-Sikkim,80830,sikkim,sikkim,GEN,NDA,East
+358,Dravida Munnetra Kazhagam,All India Anna Dravida Munnetra Kazhagam,306559,tamil nadu ,arakkonam,GEN,INDI,South
+359,Dravida Munnetra Kazhagam,All India Anna Dravida Munnetra Kazhagam,208766,tamil nadu ,arani,GEN,INDI,South
+360,Dravida Munnetra Kazhagam,Bharatiya Janata Party,244689,tamil nadu ,chennai central,GEN,INDI,South
+361,Dravida Munnetra Kazhagam,All India Anna Dravida Munnetra Kazhagam,339222,tamil nadu ,chennai north,GEN,INDI,South
+362,Dravida Munnetra Kazhagam,Bharatiya Janata Party,225945,tamil nadu ,chennai south,GEN,INDI,South
+363,Viduthalai Chiruthaigal Katchi,All India Anna Dravida Munnetra Kazhagam,103554,tamil nadu ,chidambaram,SC,INDI,South
+364,Dravida Munnetra Kazhagam,Bharatiya Janata Party,118068,tamil nadu ,coimbatore,GEN,INDI,South
+365,Indian National Congress,Desiya Murpokku Dravida Kazhagam,185896,tamil nadu ,cuddalore,GEN,INDI,South
+366,Dravida Munnetra Kazhagam,Pattali Makkal Katchi,21300,tamil nadu ,dharmapuri,GEN,INDI,South
+367,Communist Party of India  (Marxist),All India Anna Dravida Munnetra Kazhagam,443821,tamil nadu ,dindigul,GEN,INDI,South
+368,Dravida Munnetra Kazhagam,All India Anna Dravida Munnetra Kazhagam,236566,tamil nadu ,erode,GEN,INDI,South
+369,Dravida Munnetra Kazhagam,All India Anna Dravida Munnetra Kazhagam,53784,tamil nadu ,kallakurichi,GEN,INDI,South
+370,Dravida Munnetra Kazhagam,All India Anna Dravida Munnetra Kazhagam,221473,tamil nadu ,kancheepuram,SC,INDI,South
+371,Indian National Congress,Bharatiya Janata Party,179907,tamil nadu ,kanniyakumari,GEN,INDI,South
+372,Indian National Congress,All India Anna Dravida Munnetra Kazhagam,166816,tamil nadu ,karur,GEN,INDI,South
+373,Indian National Congress,All India Anna Dravida Munnetra Kazhagam,192486,tamil nadu ,krishnagiri,GEN,INDI,South
+374,Communist Party of India  (Marxist),Bharatiya Janata Party,209409,tamil nadu ,madurai,GEN,INDI,South
+375,Indian National Congress,All India Anna Dravida Munnetra Kazhagam,271183,tamil nadu ,mayiladuturai,GEN,INDI,South
+376,Communist Party of India,All India Anna Dravida Munnetra Kazhagam,208957,tamil nadu ,nagapattinam,SC,INDI,South
+377,Dravida Munnetra Kazhagam,All India Anna Dravida Munnetra Kazhagam,29112,tamil nadu ,namakkal,GEN,INDI,South
+378,Dravida Munnetra Kazhagam,Bharatiya Janata Party,240585,tamil nadu ,nilgiris,SC,INDI,South
+379,Dravida Munnetra Kazhagam,All India Anna Dravida Munnetra Kazhagam,389107,tamil nadu ,perambalur,GEN,INDI,South
+380,Dravida Munnetra Kazhagam,All India Anna Dravida Munnetra Kazhagam,252042,tamil nadu ,pollachi,GEN,INDI,South
+381,Indian Union Muslim League,Independent,166782,tamil nadu ,ramanathapuram,GEN,INDI,South
+382,Dravida Munnetra Kazhagam,All India Anna Dravida Munnetra Kazhagam,70357,tamil nadu ,salem,GEN,INDI,South
+383,Indian National Congress,All India Anna Dravida Munnetra Kazhagam,205664,tamil nadu ,sivaganga,GEN,INDI,South
+384,Dravida Munnetra Kazhagam,All India Anna Dravida Munnetra Kazhagam,487029,tamil nadu ,sriperumbudur,GEN,INDI,South
+385,Dravida Munnetra Kazhagam,All India Anna Dravida Munnetra Kazhagam,196199,tamil nadu ,tenkasi,SC,INDI,South
+386,Dravida Munnetra Kazhagam,Desiya Murpokku Dravida Kazhagam,319583,tamil nadu ,thanjavur,GEN,INDI,South
+387,Dravida Munnetra Kazhagam,Amma Makkal Munnettra Kazagam,278825,tamil nadu ,theni,GEN,INDI,South
+388,Indian National Congress,Bharatiya Janata Party,572155,tamil nadu ,thiruvallur,SC,INDI,South
+389,Dravida Munnetra Kazhagam,All India Anna Dravida Munnetra Kazhagam,392738,tamil nadu ,thoothukkudi,GEN,INDI,South
+390,Marumalarchi Dravida Munnetra Kazhagam,All India Anna Dravida Munnetra Kazhagam,313094,tamil nadu ,tiruchirappalli,GEN,INDI,South
+391,Indian National Congress,Bharatiya Janata Party,165620,tamil nadu ,tirunelveli,GEN,INDI,South
+392,Communist Party of India,All India Anna Dravida Munnetra Kazhagam,125928,tamil nadu ,tiruppur,GEN,INDI,South
+393,Dravida Munnetra Kazhagam,All India Anna Dravida Munnetra Kazhagam,233931,tamil nadu ,tiruvannamalai,GEN,INDI,South
+394,Dravida Munnetra Kazhagam,Bharatiya Janata Party,215702,tamil nadu ,vellore,GEN,INDI,South
+395,Viduthalai Chiruthaigal Katchi,All India Anna Dravida Munnetra Kazhagam,70703,tamil nadu ,villupuram,SC,INDI,South
+396,Indian National Congress,Desiya Murpokku Dravida Kazhagam,4379,tamil nadu ,virudhunagar,GEN,INDI,South
+397,Bharatiya Janata Party,Indian National Congress,90652,telangana ,adilabad,ST,NDA,South
+398,Indian National Congress,Bharatiya Janata Party,222170,telangana ,bhongir,GEN,INDI,South
+399,Bharatiya Janata Party,Indian National Congress,172897,telangana ,chevella,GEN,NDA,South
+400,All India Majlis-E-Ittehadul Muslimeen,Bharatiya Janata Party,338087,telangana ,hyderabad,GEN,INDI,South
+401,Bharatiya Janata Party,Indian National Congress,225209,telangana ,karimnagar,GEN,NDA,South
+402,Indian National Congress,Bharat Rashtra Samithi,467847,telangana ,khammam,GEN,INDI,South
+403,Indian National Congress,Bharat Rashtra Samithi,349165,telangana ,mahabubabad,ST,INDI,South
+404,Bharatiya Janata Party,Indian National Congress,4500,telangana ,mahbubnagar,GEN,NDA,South
+405,Bharatiya Janata Party,Indian National Congress,391475,telangana ,malkajgiri,GEN,NDA,South
+406,Bharatiya Janata Party,Indian National Congress,39139,telangana ,medak,GEN,NDA,South
+407,Indian National Congress,Bharatiya Janata Party,94414,telangana ,nagarkurnool,SC,INDI,South
+408,Indian National Congress,Bharatiya Janata Party,559905,telangana ,nalgonda,GEN,INDI,South
+409,Bharatiya Janata Party,Indian National Congress,109241,telangana ,nizamabad,GEN,NDA,South
+410,Indian National Congress,Bharatiya Janata Party,131364,telangana ,peddapalle,SC,INDI,South
+411,Bharatiya Janata Party,Indian National Congress,49944,telangana ,secunderabad,GEN,NDA,South
+412,Indian National Congress,Bharatiya Janata Party,220339,telangana ,warangal,SC,INDI,South
+413,Indian National Congress,Bharatiya Janata Party,46188,telangana ,zahirabad,GEN,INDI,South
+414,Bharatiya Janata Party,Communist Party of India  (Marxist),486819,tripura,tripura east,ST,NDA,East
+415,Bharatiya Janata Party,Indian National Congress,611578,tripura,tripura west,GEN,NDA,East
+416,Bharatiya Janata Party,Samajwadi Party,271294,uttar pradesh ,agra,SC,NDA,North
+417,Bharatiya Janata Party,Samajwadi Party,44345,uttar pradesh ,akbarpur,GEN,NDA,North
+418,Bharatiya Janata Party,Samajwadi Party,15647,uttar pradesh ,aligarh,GEN,NDA,North
+419,Indian National Congress,Bharatiya Janata Party,58795,uttar pradesh ,allahabad,GEN,INDI,North
+420,Samajwadi Party,Bharatiya Janata Party,137247,uttar pradesh ,ambedkar nagar,GEN,INDI,North
+421,Indian National Congress,Bharatiya Janata Party,167196,uttar pradesh ,amethi,GEN,INDI,North
+422,Bharatiya Janata Party,Indian National Congress,28670,uttar pradesh ,amroha,GEN,NDA,North
+423,Samajwadi Party,Bharatiya Janata Party,15969,uttar pradesh ,aonla,GEN,INDI,North
+424,Samajwadi Party,Bharatiya Janata Party,161035,uttar pradesh ,azamgarh,GEN,INDI,North
+425,Samajwadi Party,Bharatiya Janata Party,34991,uttar pradesh ,badaun,GEN,INDI,North
+426,Rashtriya Lok Dal,Samajwadi Party,159459,uttar pradesh ,baghpat,GEN,INDI,North
+427,Bharatiya Janata Party,Samajwadi Party,64227,uttar pradesh ,bahraich,SC,NDA,North
+428,Samajwadi Party,Bharatiya Janata Party,43384,uttar pradesh ,ballia,GEN,INDI,North
+429,Samajwadi Party,Bharatiya Janata Party,71210,uttar pradesh ,banda,GEN,INDI,North
+430,Bharatiya Janata Party,Indian National Congress,3150,uttar pradesh ,bansgaon,SC,NDA,North
+431,Indian National Congress,Bharatiya Janata Party,215704,uttar pradesh ,barabanki,SC,INDI,North
+432,Bharatiya Janata Party,Samajwadi Party,34804,uttar pradesh ,bareilly,GEN,NDA,North
+433,Samajwadi Party,Bharatiya Janata Party,100994,uttar pradesh ,basti,GEN,INDI,North
+434,Bharatiya Janata Party,All India Trinamool Congress,44072,uttar pradesh ,bhadohi,GEN,NDA,North
+435,Rashtriya Lok Dal,Samajwadi Party,37508,uttar pradesh ,bijnor,GEN,INDI,North
+436,Bharatiya Janata Party,Indian National Congress,275134,uttar pradesh ,bulandshahr,SC,NDA,North
+437,Samajwadi Party,Bharatiya Janata Party,21565,uttar pradesh ,chandauli,GEN,INDI,North
+438,Bharatiya Janata Party,Indian National Congress,34842,uttar pradesh ,deoria,GEN,NDA,North
+439,Samajwadi Party,Bharatiya Janata Party,4449,uttar pradesh ,dhaurahra,GEN,INDI,North
+440,Bharatiya Janata Party,Samajwadi Party,42728,uttar pradesh ,domariyaganj,GEN,NDA,North
+441,Samajwadi Party,Bharatiya Janata Party,28052,uttar pradesh ,etah,GEN,INDI,North
+442,Samajwadi Party,Bharatiya Janata Party,58419,uttar pradesh ,etawah,SC,INDI,North
+443,Samajwadi Party,Bharatiya Janata Party,54567,uttar pradesh ,faizabad,GEN,INDI,North
+444,Bharatiya Janata Party,Samajwadi Party,2678,uttar pradesh ,farrukhabad,GEN,NDA,North
+445,Samajwadi Party,Bharatiya Janata Party,33199,uttar pradesh ,fatehpur,GEN,INDI,North
+446,Bharatiya Janata Party,Indian National Congress,43405,uttar pradesh ,fatehpur sikri,GEN,NDA,North
+447,Samajwadi Party,Bharatiya Janata Party,89312,uttar pradesh ,firozabad,GEN,INDI,North
+448,Bharatiya Janata Party,Samajwadi Party,559472,uttar pradesh ,gautam buddha nagar,GEN,NDA,North
+449,Bharatiya Janata Party,Indian National Congress,336965,uttar pradesh ,ghaziabad,GEN,NDA,North
+450,Samajwadi Party,Bharatiya Janata Party,124861,uttar pradesh ,ghazipur,GEN,INDI,North
+451,Samajwadi Party,Suheldev Bharatiya Samaj Party,162943,uttar pradesh ,ghosi,GEN,INDI,North
+452,Bharatiya Janata Party,Samajwadi Party,46224,uttar pradesh ,gonda,GEN,NDA,North
+453,Bharatiya Janata Party,Samajwadi Party,103526,uttar pradesh ,gorakhpur,GEN,NDA,North
+454,Samajwadi Party,Bharatiya Janata Party,2629,uttar pradesh ,hamirpur,GEN,INDI,North
+455,Bharatiya Janata Party,Samajwadi Party,27856,uttar pradesh ,hardoi,SC,NDA,North
+456,Bharatiya Janata Party,Samajwadi Party,247318,uttar pradesh ,hathras,SC,NDA,North
+457,Samajwadi Party,Bharatiya Janata Party,53898,uttar pradesh ,jalaun,SC,INDI,North
+458,Samajwadi Party,Bharatiya Janata Party,99335,uttar pradesh ,jaunpur,GEN,INDI,North
+459,Bharatiya Janata Party,Indian National Congress,102614,uttar pradesh ,jhansi,GEN,NDA,North
+460,Samajwadi Party,Bharatiya Janata Party,69116,uttar pradesh ,kairana,GEN,INDI,North
+461,Bharatiya Janata Party,Samajwadi Party,148843,uttar pradesh ,kaiserganj,GEN,NDA,North
+462,Samajwadi Party,Bharatiya Janata Party,170922,uttar pradesh ,kannauj,GEN,INDI,North
+463,Bharatiya Janata Party,Indian National Congress,20968,uttar pradesh ,kanpur,GEN,NDA,North
+464,Samajwadi Party,Bharatiya Janata Party,103944,uttar pradesh ,kaushambi,SC,INDI,North
+465,Samajwadi Party,Bharatiya Janata Party,34329,uttar pradesh ,kheri,GEN,INDI,North
+466,Bharatiya Janata Party,Samajwadi Party,81790,uttar pradesh ,kushi nagar,GEN,NDA,North
+467,Samajwadi Party,Bharatiya Janata Party,115023,uttar pradesh ,lalganj,SC,INDI,North
+468,Bharatiya Janata Party,Samajwadi Party,135159,uttar pradesh ,lucknow,GEN,NDA,North
+469,Samajwadi Party,Bharatiya Janata Party,35850,uttar pradesh ,machhlishahr,SC,INDI,North
+470,Bharatiya Janata Party,Indian National Congress,35451,uttar pradesh ,maharajganj,GEN,NDA,North
+471,Samajwadi Party,Bharatiya Janata Party,221639,uttar pradesh ,mainpuri,GEN,INDI,North
+472,Bharatiya Janata Party,Indian National Congress,293407,uttar pradesh ,mathura,GEN,NDA,North
+473,Bharatiya Janata Party,Samajwadi Party,10585,uttar pradesh ,meerut,GEN,NDA,North
+474,Apna Dal (Soneylal),Samajwadi Party,37810,uttar pradesh ,mirzapur,GEN,NDA,North
+475,Bharatiya Janata Party,Samajwadi Party,33406,uttar pradesh ,misrikh,SC,NDA,North
+476,Samajwadi Party,Bharatiya Janata Party,70292,uttar pradesh ,mohanlalganj,SC,INDI,North
+477,Samajwadi Party,Bharatiya Janata Party,105762,uttar pradesh ,moradabad,GEN,INDI,North
+478,Samajwadi Party,Bharatiya Janata Party,24672,uttar pradesh ,muzaffarnagar,GEN,INDI,North
+479,Aazad Samaj Party (Kanshi Ram),Bharatiya Janata Party,151473,uttar pradesh ,nagina,SC,INDI,North
+480,Bharatiya Janata Party,Samajwadi Party,4332,uttar pradesh ,phulpur,GEN,NDA,North
+481,Bharatiya Janata Party,Samajwadi Party,164935,uttar pradesh ,pilibhit,GEN,NDA,North
+482,Samajwadi Party,Bharatiya Janata Party,66206,uttar pradesh ,pratapgarh,GEN,INDI,North
+483,Indian National Congress,Bharatiya Janata Party,390030,uttar pradesh ,rae bareli,GEN,INDI,North
+484,Samajwadi Party,Bharatiya Janata Party,87434,uttar pradesh ,rampur,GEN,INDI,North
+485,Samajwadi Party,Apna Dal (Soneylal),129234,uttar pradesh ,robertsganj,SC,INDI,North
+486,Indian National Congress,Bharatiya Janata Party,64542,uttar pradesh ,saharanpur,GEN,INDI,North
+487,Samajwadi Party,Bharatiya Janata Party,3573,uttar pradesh ,salempur,GEN,INDI,North
+488,Samajwadi Party,Bharatiya Janata Party,121494,uttar pradesh ,sambhal,GEN,INDI,North
+489,Samajwadi Party,Bharatiya Janata Party,92170,uttar pradesh ,sant kabir nagar,GEN,INDI,North
+490,Bharatiya Janata Party,Samajwadi Party,55379,uttar pradesh ,shahjahanpur,SC,NDA,North
+491,Samajwadi Party,Bharatiya Janata Party,76673,uttar pradesh ,shrawasti,GEN,INDI,North
+492,Indian National Congress,Bharatiya Janata Party,89641,uttar pradesh ,sitapur,GEN,INDI,North
+493,Samajwadi Party,Bharatiya Janata Party,43174,uttar pradesh ,sultanpur,GEN,INDI,North
+494,Bharatiya Janata Party,Samajwadi Party,35818,uttar pradesh ,unnao,GEN,NDA,North
+495,Bharatiya Janata Party,Indian National Congress,152513,uttar pradesh ,varanasi,GEN,NDA,North
+496,Bharatiya Janata Party,Indian National Congress,234097,uttarakhand,almora,SC,NDA,North
+497,Bharatiya Janata Party,Indian National Congress,163503,uttarakhand,garhwal,GEN,NDA,North
+498,Bharatiya Janata Party,Indian National Congress,164056,uttarakhand,haridwar,GEN,NDA,North
+499,Bharatiya Janata Party,Indian National Congress,334548,uttarakhand,nainital–udhamsingh nagar,GEN,NDA,North
+500,Bharatiya Janata Party,Indian National Congress,272493,uttarakhand,tehri garhwal,GEN,NDA,North
+501,Bharatiya Janata Party,All India Trinamool Congress,75447,west bengal ,alipurduars,ST,NDA,North
+502,All India Trinamool Congress,Bharatiya Janata Party,6399,west bengal ,arambagh,SC,INDI,North
+503,All India Trinamool Congress,Bharatiya Janata Party,59564,west bengal ,asansol,GEN,INDI,North
+504,All India Trinamool Congress,Indian National Congress,85022,west bengal ,baharampur,GEN,INDI,North
+505,Bharatiya Janata Party,All India Trinamool Congress,10386,west bengal ,balurghat,GEN,NDA,North
+506,Bharatiya Janata Party,All India Trinamool Congress,73693,west bengal ,bangaon,SC,NDA,North
+507,All India Trinamool Congress,Bharatiya Janata Party,32778,west bengal ,bankura,GEN,INDI,North
+508,All India Trinamool Congress,Bharatiya Janata Party,114189,west bengal ,barasat,GEN,INDI,North
+509,All India Trinamool Congress,Bharatiya Janata Party,160572,west bengal ,bardhaman purba,SC,INDI,North
+510,All India Trinamool Congress,Bharatiya Janata Party,137981,west bengal ,bardhaman–durgapur,GEN,INDI,North
+511,All India Trinamool Congress,Bharatiya Janata Party,64438,west bengal ,barrackpore,GEN,INDI,North
+512,All India Trinamool Congress,Bharatiya Janata Party,333547,west bengal ,basirhat,GEN,INDI,North
+513,All India Trinamool Congress,Bharatiya Janata Party,197650,west bengal ,birbhum,GEN,INDI,North
+514,Bharatiya Janata Party,All India Trinamool Congress,5567,west bengal ,bishnupur,SC,NDA,North
+515,All India Trinamool Congress,Bharatiya Janata Party,327253,west bengal ,bolpur,SC,INDI,North
+516,All India Trinamool Congress,Bharatiya Janata Party,39250,west bengal ,cooch behar,SC,INDI,North
+517,Bharatiya Janata Party,All India Trinamool Congress,178525,west bengal ,darjeeling,GEN,NDA,North
+518,All India Trinamool Congress,Bharatiya Janata Party,710930,west bengal ,diamond harbour,GEN,INDI,North
+519,All India Trinamool Congress,Bharatiya Janata Party,70660,west bengal ,dum dum,GEN,INDI,North
+520,All India Trinamool Congress,Bharatiya Janata Party,182868,west bengal ,ghatal,GEN,INDI,North
+521,All India Trinamool Congress,Bharatiya Janata Party,76853,west bengal ,hooghly,GEN,INDI,North
+522,All India Trinamool Congress,Bharatiya Janata Party,169442,west bengal ,howrah,GEN,INDI,North
+523,All India Trinamool Congress,Bharatiya Janata Party,258201,west bengal ,jadavpur,GEN,INDI,North
+524,Bharatiya Janata Party,All India Trinamool Congress,86693,west bengal ,jalpaiguri,SC,NDA,North
+525,All India Trinamool Congress,Indian National Congress,116637,west bengal ,jangipur,GEN,INDI,North
+526,All India Trinamool Congress,Bharatiya Janata Party,470219,west bengal ,jaynagar,SC,INDI,North
+527,All India Trinamool Congress,Bharatiya Janata Party,174048,west bengal ,jhargram,ST,INDI,North
+528,Bharatiya Janata Party,All India Trinamool Congress,47764,west bengal ,kanthi,GEN,NDA,North
+529,All India Trinamool Congress,Bharatiya Janata Party,187231,west bengal ,kolkata dakshin,GEN,INDI,North
+530,All India Trinamool Congress,Bharatiya Janata Party,92560,west bengal ,kolkata uttar,GEN,INDI,North
+531,All India Trinamool Congress,Bharatiya Janata Party,56705,west bengal ,krishnanagar,GEN,INDI,North
+532,Indian National Congress,Bharatiya Janata Party,128368,west bengal ,maldaha dakshin,GEN,INDI,North
+533,Bharatiya Janata Party,All India Trinamool Congress,77708,west bengal ,maldaha uttar,GEN,NDA,North
+534,All India Trinamool Congress,Bharatiya Janata Party,201057,west bengal ,mathurapur,SC,INDI,North
+535,All India Trinamool Congress,Bharatiya Janata Party,27191,west bengal ,medinipur,GEN,INDI,North
+536,All India Trinamool Congress,Communist Party of India  (Marxist),164215,west bengal ,murshidabad,GEN,INDI,North
+537,Bharatiya Janata Party,All India Trinamool Congress,17079,west bengal ,purulia,GEN,NDA,North
+538,Bharatiya Janata Party,All India Trinamool Congress,68197,west bengal ,raiganj,GEN,NDA,North
+539,Bharatiya Janata Party,All India Trinamool Congress,186899,west bengal ,ranaghat,SC,NDA,North
+540,All India Trinamool Congress,Bharatiya Janata Party,174830,west bengal ,srerampur,GEN,INDI,North
+541,Bharatiya Janata Party,All India Trinamool Congress,77733,west bengal ,tamluk,GEN,NDA,North
+542,All India Trinamool Congress,Bharatiya Janata Party,218673,west bengal ,uluberia,GEN,INDI,North
